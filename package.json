@@ -15,7 +15,7 @@
     "@babel/preset-react": "^7.9.4",
     "@babel/register": "^7.9.0",
     "@babel/runtime": "^7.9.6",
-    "aws-sdk": "^2.668.0",
+    "aws-sdk": "^2.814.0",
     "babel-loader": "^8.1.0",
     "break_infinity.js": "^1.1.0",
     "clean-webpack-plugin": "^3.0.0",
